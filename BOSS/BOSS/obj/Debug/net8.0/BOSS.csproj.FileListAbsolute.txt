@@ -1,0 +1,14 @@
+C:\Users\sabina\source\repos\BOSS\BOSS\bin\Debug\net8.0\BOSS.exe
+C:\Users\sabina\source\repos\BOSS\BOSS\bin\Debug\net8.0\BOSS.deps.json
+C:\Users\sabina\source\repos\BOSS\BOSS\bin\Debug\net8.0\BOSS.runtimeconfig.json
+C:\Users\sabina\source\repos\BOSS\BOSS\bin\Debug\net8.0\BOSS.dll
+C:\Users\sabina\source\repos\BOSS\BOSS\bin\Debug\net8.0\BOSS.pdb
+C:\Users\sabina\source\repos\BOSS\BOSS\obj\Debug\net8.0\BOSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabina\source\repos\BOSS\BOSS\obj\Debug\net8.0\BOSS.AssemblyInfoInputs.cache
+C:\Users\sabina\source\repos\BOSS\BOSS\obj\Debug\net8.0\BOSS.AssemblyInfo.cs
+C:\Users\sabina\source\repos\BOSS\BOSS\obj\Debug\net8.0\BOSS.csproj.CoreCompileInputs.cache
+C:\Users\sabina\source\repos\BOSS\BOSS\obj\Debug\net8.0\BOSS.dll
+C:\Users\sabina\source\repos\BOSS\BOSS\obj\Debug\net8.0\refint\BOSS.dll
+C:\Users\sabina\source\repos\BOSS\BOSS\obj\Debug\net8.0\BOSS.pdb
+C:\Users\sabina\source\repos\BOSS\BOSS\obj\Debug\net8.0\BOSS.genruntimeconfig.cache
+C:\Users\sabina\source\repos\BOSS\BOSS\obj\Debug\net8.0\ref\BOSS.dll
